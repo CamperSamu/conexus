@@ -25,4 +25,3 @@ $ git clone git@github.com:Apexal/conexus.git && cd conexus
 $ bundle
 $ ruby run.rb <token> <client-id>
 ```
-conexus
